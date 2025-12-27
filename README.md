@@ -1,7 +1,7 @@
 # Lyftr AI Universal Website Scraper
 
 A full-stack website scraper built with **FastAPI**, **Playwright**, and **BeautifulSoup**. It supports static scraping with dynamic fallback for JS-heavy sites, interactions (clicks/scrolls), and noise filtering.
-
+deployed: https://full-stack-assignment-aniket-kumar.vercel.app/
 ## How to Run
 
 1.  **Prerequisites**: Python 3.10+ installed.
